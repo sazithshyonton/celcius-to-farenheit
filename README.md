@@ -16,8 +16,6 @@ The Question is given below :
 
 
 
-Live Link  Demo : 
-
 
 JavaScript Code : 
 var x;
